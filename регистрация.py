@@ -3,7 +3,7 @@ from tkinter import ttk
 
 root = Tk()
 root.title("Авторизация")
-root.geometry("300x150")
+root.geometry("300x200")
 
 label = ttk.Label(
     text="Вход в систему",
